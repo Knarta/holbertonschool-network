@@ -1,0 +1,1 @@
+Here is the link to my article [What Happens When You Type https://www.google.com in Your Browser and Press Enter?](https://medium.com/@charquen10/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-7847e28d0e94)
